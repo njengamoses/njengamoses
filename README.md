@@ -35,6 +35,13 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 
 ---
 
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=njengamoses&theme=github-dark&hide_border=true&area=true&color=00ff00&point=00ff00" />
+</p>
+
+---
+
 ## 🧩 Projects & Tools
 🕵️‍♂️ **ReconX** — Automated reconnaissance & network mapping tool  
 ⚙️ **ThreatScope** — Flask-based dashboard for vulnerability tracking  
