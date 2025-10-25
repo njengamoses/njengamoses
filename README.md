@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&text=Welcome%20to%20NjengaMoses%27s%20GitHub&fontColor=00ff00&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20Offensive%20Security%20Learner%20%7C%20Developer&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&text=Njenga%20Moses&fontColor=00ff00&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Offensive%20Security%20Learner&descAlignY=55)
 
 # 🧠 Njenga Moses | Cybersecurity & Offensive Security Enthusiast
 
@@ -39,7 +39,7 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 🕵️‍♂️ **ReconX** — Automated reconnaissance & network mapping tool  
 ⚙️ **ThreatScope** — Flask-based dashboard for vulnerability tracking  
 🧠 **AutoExploit** — Proof-of-concept exploit automation script  
-🔒 **ForensicLite** — Lightweight forensic artifact extractor
+🔒 **ForensicLite** — Lightweight forensic artifact extractor  
 
 *(Repositories coming soon...)*
 
