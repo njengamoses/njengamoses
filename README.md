@@ -48,7 +48,7 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 🧠 **AutoExploit** — Proof-of-concept exploit automation script  
 🔒 **ForensicLite** — Lightweight forensic artifact extractor  
 
-*(Repositories coming soon...)*
+
 
 ---
 
