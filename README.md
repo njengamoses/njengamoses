@@ -1,18 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&text=Njenga%20Moses&fontColor=00ff00&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Offensive%20Security%20Learner&descAlignY=55)
 
-# 🧠 Njenga Moses | Cybersecurity & Offensive Security Enthusiast
-
+# 🧠 Njenga Moses | Cybersecurity & Offensive Security Enthusiast  
 > “Exploit knowledge, not systems.”
 
 ---
 
 ### 👋 About Me
-I’m **Njenga Moses**, a cybersecurity and offensive security learner focused on understanding the mechanics of exploits, digital forensics, and network defense.  
-I like **building, breaking, and securing** systems — the full cycle of ethical hacking.
+I’m **Njenga Moses**, a cybersecurity and offensive security learner focused on understanding exploits, forensics, and network defense.  
+I like **building**, **breaking**, and **securing** systems — the full ethical hacking cycle.
 
-🔹 Currently exploring: **Red Team operations**, **malware analysis**, and **threat automation**  
-🔹 Tools of choice: **Kali Linux**, **Python**, **Burp Suite**, **Nmap**, **Wireshark**, **Docker**  
-🔹 Philosophy: *Every system can teach you something.*
+🔹 Exploring: **Red Team Ops**, **Malware Analysis**, **Threat Automation**  
+🔹 Tools: **Kali Linux**, **Python**, **Burp Suite**, **Nmap**, **Wireshark**, **Docker**  
+🔹 Motto: *Every system can teach you something.*
 
 ---
 
@@ -23,14 +22,17 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=njengamoses&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njengamoses&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+---
+
+## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=njengamoses&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=njengamoses&theme=github-dark-green&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" height="165"/>
 </p>
 
 ---
@@ -44,25 +46,22 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 
 ## 🧩 Projects & Tools
 🕵️‍♂️ **Dexa** — Automated chatbot for software developers  
-⚙️ **ThreatScope** — Flask-based dashboard for vulnerability tracking  
-🧠 **AutoExploit** — Proof-of-concept exploit automation script  
-🔒 **ForensicLite** — Lightweight forensic artifact extractor  
-
-
+🧰 **ReconX** — Automated recon and vulnerability analysis framework (integrated into Dexa)
+📊 **VulnScope** — CLI-based vulnerability reporting and visualization tool
+🛠️ **PayloadForge** — Custom payload builder for penetration testing simulations
 
 ---
 
-## 🧠 Learning Focus 2025
+## 🎯 2025 Focus
 - Advanced Penetration Testing  
 - Reverse Engineering  
-- Cloud Security (AWS & Azure)  
-- Zero-Day Exploit Research
+- Cloud Security (AWS / Azure)  
+- Zero-Day Research  
 
 ---
 
 ## 💬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://linkedin.com/in/YOUR_HANDLE)  
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:njengamoses020@gmail.com)
 
 ---
