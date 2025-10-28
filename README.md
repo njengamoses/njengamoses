@@ -32,8 +32,9 @@ I like **building**, **breaking**, and **securing** systems — the full ethical
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=njengamoses&theme=github-dark-green&hide_border=false&background=0d1117&ring=00ff00&fire=ff4500&currStreakNum=00ff00&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=njengamoses&theme=highcontrast&hide_border=false" height="165"/>
 </p>
+
 
 
 ---
