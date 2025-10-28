@@ -32,8 +32,9 @@ I like **building**, **breaking**, and **securing** systems — the full ethical
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="./assets/streak.png" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=njengamoses&theme=github-dark&hide_border=true&area=true&color=00ff00&point=00ff00" height="165"/>
 </p>
+
 
 
 
