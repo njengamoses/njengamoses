@@ -43,7 +43,7 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 ---
 
 ## 🧩 Projects & Tools
-🕵️‍♂️ **ReconX** — Automated reconnaissance & network mapping tool  
+🕵️‍♂️ **VulnX** — vulnerability detection tool that parses scan results, matches CVEs, and flags outdated services.  
 ⚙️ **ThreatScope** — Flask-based dashboard for vulnerability tracking  
 🧠 **AutoExploit** — Proof-of-concept exploit automation script  
 🔒 **ForensicLite** — Lightweight forensic artifact extractor  
@@ -61,9 +61,9 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 ---
 
 ## 💬 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00)](https://instagram.com/YOUR_HANDLE)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:njegamoses020@gmail.com)
 
 ---
 
