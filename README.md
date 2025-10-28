@@ -30,7 +30,7 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=njengamoses&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=njengamoses&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -43,12 +43,12 @@ I like **building, breaking, and securing** systems — the full cycle of ethica
 ---
 
 ## 🧩 Projects & Tools
-🕵️‍♂️ **VulnX** — vulnerability detection tool that parses scan results, matches CVEs, and flags outdated services.  
+🕵️‍♂️ **Dexa** — Automated chatbot for software developers  
 ⚙️ **ThreatScope** — Flask-based dashboard for vulnerability tracking  
 🧠 **AutoExploit** — Proof-of-concept exploit automation script  
 🔒 **ForensicLite** — Lightweight forensic artifact extractor  
 
-*(Repositories coming soon...)*
+
 
 ---
 
