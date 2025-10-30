@@ -63,10 +63,6 @@ I like **building**, **breaking**, and **securing** systems — the full ethical
 
 ---
 
-## 🧩 Support My Work
-<a href="https://www.buymeacoffee.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=00ff00" />
-</a>
 
 ---
 
