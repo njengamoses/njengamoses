@@ -27,6 +27,7 @@ I like **building**, **breaking**, and **securing** systems — the full ethical
   <img src="https://github-readme-stats.vercel.app/api?username=njengamoses&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njengamoses&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+---
 
 
 
@@ -39,9 +40,7 @@ I like **building**, **breaking**, and **securing** systems — the full ethical
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=njengamoses&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+
 
 ---
 ## 🧩 Projects & Tools
