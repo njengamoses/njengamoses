@@ -1,17 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&text=Njenga%20Moses&fontColor=00ff00&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Offensive%20Security%20Learner&descAlignY=55)
 
 # 🧠 Njenga Moses | Cybersecurity & Offensive Security Enthusiast  
-> “Exploit knowledge, not systems.”
+> “JUST DO BETTER.”
 
 ---
 
 ### 👋 About Me
 I’m **Njenga Moses**, a cybersecurity and offensive security learner focused on understanding exploits, forensics, and network defense.  
-I like **building**, **breaking**, and **securing** systems — the full ethical hacking cycle.
+I like **building**, **breaking**, and **securing** systems , the full ethical hacking cycle.
 
 🔹 Exploring: **Red Team Ops**, **Malware Analysis**, **Threat Automation**  
 🔹 Tools: **Kali Linux**, **Python**, **Burp Suite**, **Nmap**, **Wireshark**, **Docker**  
-🔹 Motto: *Every system can teach you something.*
+🔹 Point: *Every system can teach you something.*
 
 ---
 
@@ -27,7 +27,7 @@ I like **building**, **breaking**, and **securing** systems — the full ethical
   <img src="https://github-readme-stats.vercel.app/api?username=njengamoses&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=njengamoses&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
----
+
 
 
 
@@ -45,8 +45,11 @@ I like **building**, **breaking**, and **securing** systems — the full ethical
 ---
 ## 🧩 Projects & Tools
 🕵️‍♂️ **Dexa** — Automated chatbot for software developers  
+
 🧰 **ReconX** — Automated recon and vulnerability analysis framework (integrated into Dexa)
+
 📊 **VulnScope** — CLI-based vulnerability reporting and visualization tool
+
 🛠️ **PayloadForge** — Custom payload builder for penetration testing simulations
 
 ---
