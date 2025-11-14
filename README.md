@@ -32,10 +32,11 @@ I like **building**, **breaking**, and **securing** systems , the full ethical h
 
 
 ---
-## 🧩 System Overview
+## 🖥️ System Online
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raissapk/project-assets/main/cyber-grid-green.gif" width="600" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=700&lines=SYSTEM+READY;PREDATOR+MODE+ACTIVE;SECURITY+MODULES+ONLINE" />
 </p>
+
 
 
 ---
