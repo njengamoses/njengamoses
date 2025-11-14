@@ -32,11 +32,11 @@ I like **building**, **breaking**, and **securing** systems , the full ethical h
 
 
 ---
-
-## 📈 Activity Graph
+## 🧩 System Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=njengamoses&theme=github-dark&hide_border=true&area=true&color=00ff00&point=00ff00" />
+  <img src="https://raw.githubusercontent.com/raissapk/project-assets/main/cyber-grid-green.gif" width="600" />
 </p>
+
 
 ---
 
