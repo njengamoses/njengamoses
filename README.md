@@ -51,7 +51,7 @@ I like **building**, **breaking**, and **securing** systems , the full ethical h
 
 ---
 
-## 🎯 2025 Focus
+## 🎯 2026 Focus
 - Advanced Penetration Testing  
 - Reverse Engineering  
 - Cloud Security (AWS / Azure)  
