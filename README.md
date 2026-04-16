@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&text=NJENGA%20MOSES&fontColor=00ff00&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Offensive%20Security%20Learner&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&text=NJENGA%20MOSES&fontColor=00ff00&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Offensive%20Security%20Learner&descAlignY=55)
 
 # 🧠 Njenga Moses | Offensive Security Enthusiast  & Malware Analyst
-> “JUST DO BETTER.”
+> “EXPLOIT IT.”
 
 ---
 
 ### 👋 About Me
-I’m **Njenga Moses**, a cybersecurity and offensive security learner focused on understanding exploits, forensics, and network defense.  
-I like **building**, **breaking**, and **securing** systems , the full ethical hacking cycle.
+I’m Njenga Moses, a cybersecurity and offensive security learner focused on understanding exploits, forensics, and network defense.  
+
 
 🔹 Exploring: **Red Team Ops**, **Malware Analysis**, **Threat Automation**  
 🔹 Tools: **Kali Linux**, **Python**, **Burp Suite**, **Nmap**, **Wireshark**, **Docker**  
