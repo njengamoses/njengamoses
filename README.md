@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&text=NJENGA%20MOSES&fontColor=00ff00&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Offensive%20Security%20Learner&descAlignY=55)
 
-# 🧠 Njenga Moses | Offensive Security Enthusiast  & Malware Analyst
+# 🧠 Njenga Moses | CyberSecurity & Software Development 
 > “EXPLOIT IT.”
 
 ---
 
 ### 👋 About Me
-I’m Njenga Moses, a cybersecurity and offensive security learner focused on understanding exploits, forensics, and network defense.  
+I’m Njenga Moses Kinyanjui, a cybersecurity and full stack software development learner focused on understanding exploits, forensics, network defense & sofware development.
 
 
 🔹 Exploring: **Red Team Ops**, **Malware Analysis**, **Threat Automation**  
