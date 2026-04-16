@@ -29,17 +29,6 @@ I’m Njenga Moses Kinyanjui, a cybersecurity and full stack software developmen
 </p>
 
 
-
-
----
-## 🖥️ System Online
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=750&lines=Initializing+Operational+Environment...;Validating+Security+Protocols...;All+Systems+Operational." />
-</p>
-
-
-
----
 ## 🧩 Projects & Tools
 🕵️‍♂️ **Dexa** - Automated chatbot for software developers  
 
