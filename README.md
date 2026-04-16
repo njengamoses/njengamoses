@@ -17,7 +17,7 @@ I’m Njenga Moses, a cybersecurity and offensive security learner focused on un
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,java,js,react,html,css,flask,docker,mysql,git,kali,vscode,postman,github" />
+  <img src="https://skillicons.dev/icons?i=python,linux,java,js,html,css,mysql,git,kali,vscode,github" />
 </p>
 
 ---
