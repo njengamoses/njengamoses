@@ -41,21 +41,21 @@ I’m Njenga Moses Kinyanjui, a cybersecurity and full stack software developmen
 
 ---
 ## 🧩 Projects & Tools
-🕵️‍♂️ **Dexa** — Automated chatbot for software developers  
+🕵️‍♂️ **Dexa** - Automated chatbot for software developers  
 
-🧰 **ReconX** — Automated recon and vulnerability analysis framework (integrated into Dexa)
+🧰 **ReconX** - Automated recon and vulnerability analysis framework (integrated into Dexa)
 
-📊 **VulnScope** — CLI-based vulnerability reporting and visualization tool
+📊 **VulnScope** - CLI-based vulnerability reporting and visualization tool
 
-🛠️ **PayloadForge** — Custom payload builder for penetration testing simulations
+🛠️ **PayloadForge** - Custom payload builder for penetration testing simulations
 
 ---
 
 ## 🎯 2026 Focus
-- Advanced Penetration Testing  
-- Reverse Engineering  
-- Cloud Security (AWS / Azure)  
-- Zero-Day Research  
+- Advanced Penetration Testing   
+- Cloud Security (AWS / Azure)
+- Network Security 
+ 
 
 ---
 
