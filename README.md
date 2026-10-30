@@ -49,7 +49,7 @@ I’m Njenga Moses , a cybersecurity and full stack software development learner
 ---
 
 ##  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://linkedin.com/in/YOUR_HANDLE)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/moses-njenga-021869302/)  
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:njengamoses020@gmail.com)
 
 ---
