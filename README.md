@@ -9,7 +9,7 @@
 I’m Njenga Moses , a cybersecurity and full stack software development learner focused on understanding exploits, forensics, network defense & sofware development.
 
 
-🔹 Exploring: **Red Team Ops**, **Malware Analysis**, **Threat Automation**  
+🔹 Exploring: **Blue Team Ops**, **Malware Analysis**, **SOC**  
 🔹 Tools: **Kali Linux**, **Python**, **Burp Suite**, **Nmap**, **Wireshark**, **Docker**  
 🔹 Point: *Every system can teach you something.*
 
